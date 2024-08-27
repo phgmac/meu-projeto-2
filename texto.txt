@@ -3,3 +3,6 @@ repositório? O que é git push?
 
 Alguns devs já me perguntaram como seria o workflow correto para colaborar com um projeto open source. Como criar uma nova branch, porque fazer 
 isso, como enviar um pull request, como saber se o que você está fazendo está de acordo com o propósito do repositório.
+
+Seguindo a dica do Rômulo, esse artigo é para você que quer aprender desde o básico necessário de git, até a submissão de um pull request, com um ajuste ou nova funcionalidade 
+para um projeto no Github!
