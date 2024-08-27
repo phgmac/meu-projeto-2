@@ -1,0 +1,1 @@
+Você tem uma conta no Github, acompanha projetos open source, gostaria de colaborar com algum deles, mas não sabe como fazer? Como criar uma nova feature? Como preparar o repositório? O que é git push?
