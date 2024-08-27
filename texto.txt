@@ -1,1 +1,5 @@
-Você tem uma conta no Github, acompanha projetos open source, gostaria de colaborar com algum deles, mas não sabe como fazer? Como criar uma nova feature? Como preparar o repositório? O que é git push?
+Você tem uma conta no Github, acompanha projetos open source, gostaria de colaborar com algum deles, mas não sabe como fazer? Como criar uma nova feature? Como preparar o 
+repositório? O que é git push? 
+
+Alguns devs já me perguntaram como seria o workflow correto para colaborar com um projeto open source. Como criar uma nova branch, porque fazer 
+isso, como enviar um pull request, como saber se o que você está fazendo está de acordo com o propósito do repositório.
